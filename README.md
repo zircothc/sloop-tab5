@@ -1,6 +1,6 @@
 # SLOOP on the M5Stack Tab5
 
-Port of [SLOOP](https://github.com/isod89/sloop-fm1) (a Felucca fork for the M-Vave FM-1) to the M5Stack Tab5 (ESP32-P4), with a full touch panel, USB MIDI host and MIDI learn.
+Port of [SLOOP](https://github.com/isod89/sloop-fm1) (a Felucca fork for the M-Vave FM-1) to the M5Stack Tab5 (ESP32-P4), with a full touch panel, USB MIDI host and MIDI learn (not tested).
 
 GPL-3.0-only, like SLOOP.
 
